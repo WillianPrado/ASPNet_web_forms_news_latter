@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap');
+
+#index2 h1#titulo{
+    font-family: 'Roboto Condensed', Helvetica, Arial;   
+	color:   	#000000;
+	margin: 0;
+    font-size: 50px;
+    font-weight: 800;
+}  
+#index2 img{
+    max-height: 450px;
+    width: 100%;
+    display: flex;
+  align-items: center;
+} 
+
+#sucesso{
+    padding: 0px;
+}
+#fotos {
+	background-color: #F8F8FF;
+}
+#fotoss {
+	background-color:#FFFFFF;
+   
+}
+
+#index1 {
+    padding: 0px;
+    border: 0px;
+
+}
+#index2 {
+    text-align: left;
+
+}
+
+#index3 {
+      padding: 0px;
+    border: 0px;
+
+}
+#index4 {
+    padding: 0px;
+    border: 0px;
+
+}
+/*todas as imagens dentro de #fotos*/
+#noticias {
+	  
+	
+}
+
+#noticias img{
+	max-height: 180px;
+	width: 300px;
+	
+	
+}
+#noticias img:hover{
+	max-height: 180px;
+	width: 300px;
+    filter: brightness(70%)
+	
+}
+
+#noticias a{
+  color:  	#191970;
+  text-rendering: 
+  height;
+  text-decoration: none;
+  font-family: Arial, Helvetica,;
+  font-size: inherit;
+}
+
+#noticias a:hover {
+  color:  	#2F4F4F;
+  text-rendering: 
+  height;
+  text-decoration: none;
+  font-family: Arial, Helvetica,;
+  font-size: inherit;
+}
+
+
+h1 {
+	font-family: 'Roboto Condensed', Helvetica, Arial;
+}
+
+a{
+	font-family: 'Roboto Condensed', Helvetica, Arial;
+	color: #0099;
+	margin: 0;
+
+}
+
+/* Header */
+.site-header {
+	background-color: #FCFCFC;
+	padding-top: 4em;
+	padding-bottom: 1em;
+}
+.site-header h1 {
+	font-family: 'Roboto Condensed', Helvetica, Arial;
+	color: #099;
+	margin: 0;
+}
+
+/* Navbar/Menu */
+.navbar {
+	background-color: #1C1C1C !important;
+	padding: 0 1rem;
+	margin: 0;
+	padding-top:15px;
+  	padding-bottom:15px;
+}
+#sucesso img{
+    width: 100%;
+    height: 20%;	
+}
+
+
+.navbar-light .navbar-nav a.nav-link {
+	font-family: 'Roboto Condensed', Helvetica, Arial;
+	color: #00FF00;
+	text-transform: uppercase;
+	padding: 100px 250px;
+	margin: 0;
+}
+.navbar-light .navbar-nav a.nav-link:hover {
+	background-color: #212121;
+	color: #FFF;
+}
+
+
+
+/* Main/Principal */
+.site-main {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+
+
+/* Footer/Rodapé */
+.site-footer {
+	background-color: #212121;
+	color: #F5F5F5;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.img-thumbnail img{
+	max-width: 10px;
+	max-height: 10px;
+}
+
+/* Gerais */
+
+.noticias a {
+	color: black;
+	text-decoration: none;
+	text-decoration-color: pink;
+	font-size: 1000px;
+}
+
+
+/* Filmes */
+
+.noticiasImg img {
+	max-width: 20px;
+	max-height: 30px;
+}
+
+h1 small {
+	display: block;
+	font-size: 0.35em;
+}
+
+
+
+
+
+.img-thumbnail img {
+	max-height: 80px;
+	max-width: 80px;
+}
+
+.img-thumbnail div {
+	max-height: 80px;
+	max-width: 80px;
+}
+
+.titulo div {
+    max-height: 80px;
+	max-width: 80px;
+}

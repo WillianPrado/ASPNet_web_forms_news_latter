@@ -1,0 +1,11 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace sucesso_e_motivacao.Repository
+{
+	public class CaseTypes
+	{
+	}
+}
